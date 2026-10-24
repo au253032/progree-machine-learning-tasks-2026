@@ -61,5 +61,6 @@ Results (R² / RMSE, test accuracy, recall) are printed inside each notebook aft
 - Task 4 uses an artificially imbalanced version of a small dataset, so its scores have wide uncertainty and are not clinical evidence. This project must not be used for real diagnosis.
 
 ## Author
-**Your Name** - Machine Learning Intern at Progree
+**Your Name** - Ateeq Ur Rehman
+Machine Learning Intern at Progree
 [LinkedIn](https://www.linkedin.com/in/ateeq-ur-rehman-b1795b322?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub](https://github.com/au253032)
